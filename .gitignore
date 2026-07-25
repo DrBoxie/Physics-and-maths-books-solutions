@@ -1,0 +1,9 @@
+# Xournal++ files
+*.xopp
+*.xopp~
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
