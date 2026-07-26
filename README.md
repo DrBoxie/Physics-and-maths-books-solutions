@@ -115,12 +115,5 @@ The repository will gradually expand to include material from areas such as
 
 # Disclaimer
 
-These solutions represent my own work and are provided primarily for educational purposes.
+These are my own worked solutions and may contain errors. If you notice a mistake, have an alternative derivation, or would like to suggest an improvement, please feel free to open an issue or submit a pull request. Constructive feedback is always welcome.
 
-Although every effort is made to ensure correctness, mistakes are always possible. If you notice an error, have an alternative derivation, or would like to suggest an improvement, please feel free to open an issue or submit a pull request.
-
----
-
-# Licence
-
-Unless otherwise stated, all original material contained in this repository is released under the MIT License.
