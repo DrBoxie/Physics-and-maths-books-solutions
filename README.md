@@ -52,7 +52,7 @@ Each book has its own directory containing
 
 | Book | Edition | Progress |
 |------|---------|----------|
-| *Introduction to Quantum Mechanics* — David J. Griffiths & Darrell F. Schroeter | Third Edition (2018) | Chapter 1 |
+| *Introduction to Quantum Mechanics* — David J. Griffiths & Darrell F. Schroeter | Third Edition (2018) | Chapter 1 & Appendix Linear Algebra |
 
 ## Mathematics
 
